@@ -2,8 +2,6 @@
 <!--                    MIAN DANIYAL HASSAN · GITHUB PROFILE           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=180&section=header&text=&fontSize=0" width="100%"/>
-
 <div align="center">
 
 ```
@@ -315,20 +313,15 @@ class DaniyalApproach:
 ## 📊 &nbsp;`> github_stats`
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
   <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&border_radius=4&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FF6B6B" width="98%" alt="Activity" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
@@ -379,4 +372,8 @@ class DaniyalApproach:
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:0d1117&height=120&section=footer" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
