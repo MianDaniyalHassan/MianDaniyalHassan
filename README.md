@@ -332,7 +332,8 @@ class DaniyalApproach:
 
 ### 🐍 &nbsp;`> contribution_snake`
 
-<img src="https://raw.githubusercontent.com/MianDaniyalHassan/test-readme/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/MianDaniyalHassan/test-readme/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -372,8 +373,8 @@ class DaniyalApproach:
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
