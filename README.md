@@ -314,7 +314,7 @@ class DaniyalApproach:
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
-  <img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&border_radius=4&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
+  <img width="49%" height="195px" src="https://streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
 </div>
 
 <br>
