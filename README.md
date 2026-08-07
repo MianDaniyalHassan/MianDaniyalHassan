@@ -13,7 +13,7 @@
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=CS+Student+%C2%B7+AI+%26+Software+Engineer;Building+intelligent+systems+that+actually+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=CS+Student+%C2%B7+AI+%26+Software+Engineer;Building+intelligent+systems+that+actually+work" alt="Typing SVG" />
 
 <br>
 
