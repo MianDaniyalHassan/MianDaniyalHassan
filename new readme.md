@@ -328,7 +328,7 @@ class DaniyalApproach:
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=MianDaniyalHassan&show_icons=true&theme=react&hide_border=true" alt="Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MianDaniyalHassan&theme=react&hide_border=true" alt="Streak" />
+  <img width="49%" height="195px" src="https://streak-stats.vercel.app/?user=MianDaniyalHassan&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
 </div>
 <br>
 <div align="center">
