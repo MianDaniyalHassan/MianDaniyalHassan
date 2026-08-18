@@ -312,7 +312,7 @@ class DaniyalApproach:
 
 ## 📊 &nbsp;`> github_stats`
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" height="195px" src="./profile/stats.svg" alt="Stats" /> 
   <img width="49%" height="195px" src="./profile/streak.svg" alt="Streak" />
 </div>
@@ -324,6 +324,17 @@ class DaniyalApproach:
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/> -->
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=MianDaniyalHassan&show_icons=true&theme=react&hide_border=true" alt="Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MianDaniyalHassan&theme=react&hide_border=true" alt="Streak" />
+</div>
+<br>
+<div align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&theme=react&hide_border=true" alt="Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity" />
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
