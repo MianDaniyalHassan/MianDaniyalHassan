@@ -313,14 +313,14 @@ class DaniyalApproach:
 ## 📊 &nbsp;`> github_stats`
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=MianDaniyalHassan&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Stats" /> 
   <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=MianDaniyalHassan&theme=react&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MianDaniyalHassan&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MianDaniyalHassan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity" />
 </div>
 
