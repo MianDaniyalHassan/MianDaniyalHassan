@@ -135,7 +135,7 @@ const daniyal = {
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ [Aegis Eye](https://github.com/MianDaniyalHassan/Aegis-Eye-FYP-) 🔒*(Private · FYP · In Progress)*
+### 👁️ [Aegis Eye](https://github.com/MianDaniyalHassan/Aegis-Eye-FYP-) 🔒(Private · FYP · In Progress)
 **Computer Vision · Deep Learning**
 
 Road accident detection system — real-time video analysis using CV and deep learning for accident identification with alert generation. Full backend source (public, team repo): [AbuBakar2006/Aegis-Eye →](https://github.com/AbuBakar2006/Aegis-Eye/tree/Aegis-Eye-Complete-Code-Backend-Version-1) · [Collaborative fork available.](https://github.com/MianDaniyalHassan/abu-bakar-ki-repo-Aegis-Eye)
@@ -145,7 +145,7 @@ Road accident detection system — real-time video analysis using CV and deep le
 </td>
 <td width="50%" valign="top">
 
-### 🩺 [CancerAtlas](https://github.com/MianDaniyalHassan/Cancer-Atlas) 🔒*(Private)*
+### 🩺 [CancerAtlas](https://github.com/MianDaniyalHassan/Cancer-Atlas) 🔒(Private)
 **AI · RAG / LLM Application**
 
 RAG chatbot that answers cancer questions grounded only in real medical literature. 3,448 chunks from NCI, WHO, IARC & ACS documents embedded via MiniLM into a persistent Chroma vector store; MMR retrieval surfaces the 5 most relevant chunks per query, and GPT OSS 120B answers from those chunks alone — nothing invented, every claim traceable to a source. **[Live Demo →](https://cancer-atlas-ten.vercel.app/)**
