@@ -358,7 +358,9 @@ class DaniyalApproach:
 ### 🐍 &nbsp;`> contribution_snake`
 
 <!-- <img src="https://raw.githubusercontent.com/MianDaniyalHassan/test-readme/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/> -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <!--<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>-->
+
+  <img src="https://raw.githubusercontent.com/MianDaniyalHassan/test-readme/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
