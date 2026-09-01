@@ -46,7 +46,7 @@
 ```yaml
 name: Mian Daniyal Hassan
 location: Lahore, Pakistan 🇵🇰
-education: 3rd Year CS @ University of Lahore
+education: Final Year CS @ University of Lahore
 status: Dean's Honor List 🏆
 focus: AI/ML Engineering · Full-Stack Development
 fyp: Road Accident Detection (Computer Vision)
