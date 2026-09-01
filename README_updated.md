@@ -262,6 +262,8 @@ React 18 + Vite + Tailwind frontend with a **Flask REST API** backend connected 
 | [AI Mood Playlist Generator](https://github.com/MianDaniyalHassan/AI-mood-playlist-generator) | Python | Generates playlists based on detected mood/sentiment |
 | [AI Recipe Generator](https://github.com/MianDaniyalHassan/AI-Recipe-Generator) | Python | Suggests recipes from user-provided ingredients |
 
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
 
 <!-- ═══════════════════════ LEARNING JOURNEY ═══════════════════════ -->
